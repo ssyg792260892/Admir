@@ -1,0 +1,2 @@
+# Admir
+wxminiprogramAdmireTest
